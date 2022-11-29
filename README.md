@@ -15,7 +15,7 @@ The game uses two standard six-sided dice, which are shaken in a bamboo cup or b
 Depending on the situation, the dealer will sometimes act as the house, collecting all losing bets. More often, the players will bet against each other (this requires an equal number of players betting on odd and even) and the house will collect a set percentage of winning bets.
 
 <h1 align="left">Game input-output</h1>
-<img src="cho_han_japaneese_game.png" alt="Trulli" width="500" height="333">
+<img src="cho_han_japaneese_game.png" alt="input-output" width="500" height="333">
 
 </p>
 
